@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selamat Ulang Tahun, Sayang!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+            color: #fff;
+            text-align: center;
+        }
+        .container {
+            padding: 50px;
+        }
+        .title {
+            font-size: 36px;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+        .message {
+            font-size: 20px;
+            line-height: 1.8;
+            margin-bottom: 30px;
+        }
+        .button {
+            display: inline-block;
+            padding: 15px 30px;
+            font-size: 18px;
+            color: #fff;
+            background: #ff6f61;
+            text-decoration: none;
+            border-radius: 25px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+            transition: background 0.3s ease;
+        }
+        .button:hover {
+            background: #ff3b2d;
+        }
+        .footer {
+            margin-top: 40px;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="title">Selamat Ulang Tahun, Sayangku! 🎉</div>
+        <div class="message">
+            Hari ini adalah hari yang istimewa karena dunia merayakan kelahiranmu. Aku sangat bersyukur bisa menjadi bagian dari hidupmu. 
+            Semoga setiap langkahmu dipenuhi kebahagiaan, setiap mimpimu menjadi nyata, dan kita selalu bersama melewati semua waktu dengan cinta. 
+            Aku cinta kamu, selalu dan selamanya. 💖
+        </div>
+        <a href="#" class="button">Klik untuk Kejutan 🎁</a>
+        <div class="footer">Dari aku yang selalu mencintaimu ❤️</div>
+    </div>
+</body>
+</html>
